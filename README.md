@@ -41,3 +41,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google Gemini API for powering our AI responses
 - MongoDB Atlas for database hosting
 - Vercel for seamless deployment
+
+## Disclaimer
+
+The deployed links do not work as of yet, will be working to get them up and running in the near future!
