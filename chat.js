@@ -6,11 +6,14 @@ require('dotenv').config();
 
 const app = express();
 app.use(cors({
-  origin: ['https://chatbot-frontend-orpin.vercel.app', 'http://localhost:3000'],
+  origin: [
+    'https://chatbot-frontend-orpin.vercel.app',
+    'https://chatbot-frontend-bcjgpsy6m-callhaxnewbs-projects.vercel.app',
+    'http://localhost:3000'
+  ],
   methods: ['GET', 'POST', 'DELETE'],
   credentials: true
 }));
-
 app.use(express.json());
 
 const API_KEY = process.env.GEMINI_API_KEY;
