@@ -24,6 +24,10 @@ A smart AI-powered chatbot designed to provide insights and information about in
 4. Run backend: `npm start` in the backend directory
 5. Run frontend: `npm start` in the frontend directory
 
+## Demo
+
+https://drive.google.com/drive/folders/1utKXZxOIcNpACYO6kCPxas9uuZP9tufl?usp=sharing
+
 ## Deployment
 
 This project is set up for easy deployment on Vercel. See deployment instructions in the docs.
